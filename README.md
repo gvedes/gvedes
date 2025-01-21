@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Lucas, sou um desbravador do mundo tech. <br>_based in Rio de Janeiro - Brasil</p>
+<p align="left">Me chamo Lucas, curioso por conhecimento e afixionado em técnologia. <br>_based in Rio de Janeiro - Brasil</p>
 
 ###
 
